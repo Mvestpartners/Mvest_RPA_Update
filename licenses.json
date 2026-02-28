@@ -5,6 +5,12 @@
       "expires": "2027-12-31",
       "plan": "premium",
       "note": "MVEST-TEST-2026 (테스트용)"
+    },
+    {
+      "hash": "1903248bb008a57f969cecd7db4c22c59fc436144f24be697e11ae034043b4d2",
+      "expires": "9999-12-31",
+      "plan": "premium",
+      "note": "MVEST-CEO-NM49... (CEO)"
     }
   ]
 }
