@@ -5,6 +5,12 @@
       "expires": "9999-12-31",
       "plan": "premium",
       "note": "MVEST-CEO-ZN5OD4H5WL... (CEO)"
+    },
+    {
+      "hash": "3d0411cbb7b1bad3d2d0067558793932fa2993b53d288c3bfd1db8715081a2c8",
+      "expires": "2027-02-28",
+      "plan": "premium",
+      "note": "MVEST-TEST-85WYG1VL2... (TEST)"
     }
   ]
 }
