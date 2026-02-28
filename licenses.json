@@ -11,6 +11,12 @@
       "expires": "9999-12-31",
       "plan": "premium",
       "note": "MVEST-CEO-NM49... (CEO)"
+    },
+    {
+      "hash": "b36e5c4c05444f31ecd286054a85d4c046893249d8d23258bde59e47f4085685",
+      "expires": "2027-02-28",
+      "plan": "premium",
+      "note": "MVEST-TEST-9UIFCWFNM... (TEST)"
     }
   ]
 }
