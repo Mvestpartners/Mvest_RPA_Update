@@ -5,6 +5,13 @@
       "expires": "9999-12-31",
       "plan": "premium",
       "note": "MVEST-RPALaptop-R64A... (RPALaptop)"
+    },
+    {
+      "hash": "1dc1a109c0e7ae1585b29bbcb09c62643d735c053663b88b281700ca7bb78775",
+      "key": "MVEST-CEO-9DQ8OWU576NSBJP2A51F",
+      "expires": "9999-12-31",
+      "plan": "premium",
+      "note": "MVEST-CEO-9DQ8OWU576... (CEO)"
     }
   ]
 }
